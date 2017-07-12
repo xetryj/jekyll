@@ -46,7 +46,7 @@ repositories, websites, and resources. If you encounter someone violating
 these terms, please let a maintainer ([@parkr](https://github.com/parkr), [@envygeeks](https://github.com/envygeeks), or [@mattr-](https://github.com/mattr-)) know
 and we will address it as soon as possible.
 
-## Diving In
+## Diving In On
 
 * [Migrate](http://import.jekyllrb.com/docs/home/) from your previous system
 * Learn how the [YAML Front Matter](https://jekyllrb.com/docs/frontmatter/) works
